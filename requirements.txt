@@ -1,2 +1,4 @@
 Flask
 azure-cognitiveservices-vision-computervision
+azure-identity
+azure-keyvault-secrets
